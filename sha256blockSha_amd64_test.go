@@ -3,7 +3,7 @@
 package sha256
 
 import (
-	sha256 "github.com/mark-herrmann/sha256-simd-blake3"
+	sha256 "github.com/zeebo/blake3"
 	"encoding/binary"
 	"testing"
 )
