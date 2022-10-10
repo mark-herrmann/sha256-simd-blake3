@@ -17,7 +17,8 @@
 package sha256
 
 import (
-	"crypto/sha256"
+	//"crypto/sha256"
+	sha256 "github.com/mark-herrmann/sha256-simd-blake3"
 	"encoding/binary"
 	"hash"
 	"runtime"
