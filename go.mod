@@ -1,4 +1,4 @@
-module github.com/minio/sha256-simd
+module github.com/mark-herrmann/sha256-simd-blake3
 
 go 1.13
 
